@@ -19,10 +19,10 @@ I’m a passionate computer science student with a deep interest in AI, machine 
 ---
 
 ## 🔍 Current Goals
-- Deepen my understanding of Deep Learning and NLP  
-- Build impactful machine learning projects  
-- Contribute to open-source AI tools  
-- Connect and collaborate with developers and researchers in the ML community  
+- Strengthen my grasp of Deep Learning and Natural Language Processing
+- Work on meaningful ML projects that solve real-world problems
+- Actively contribute to open-source AI initiatives
+- Engage with the ML community to learn, share, and grow together 
 
 ---
 
